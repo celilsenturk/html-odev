@@ -1,0 +1,63 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20;
+  text-align: center;
+  margin: 300px;
+}
+
+.container-search{
+  width: 317;
+  height: 21;
+  border: 1px solid black;
+  border-radius: 1%;
+}
+
+.container{
+  width: 90%;
+  height: 80; 
+  margin:auto;
+}
+
+.container-two{
+  width: 90%;
+  height: 80;
+  margin: auto;
+  margin-top: 6;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+#first-box{
+  width: 35%;
+  height: 80; 
+  margin-right: 3;
+}
+
+#second-box{
+  width: 30%;
+  height: 80; 
+  margin: 0 3 0 3;
+}
+
+#third-box{
+  width: 35%;
+  height: 80;
+  margin-left: 3;
+}
+
+.bg-lightgray{
+  background-color: rgb(238, 238, 238);
+}
+
+.bg-aqua{
+  background-color: #7EE5DA;
+}
+
+.bg-aqua-two{
+  background-color: #70CCC2;
+}
+
+.bg-aqua-three{
+  background-color: #62B3AA;
+}
